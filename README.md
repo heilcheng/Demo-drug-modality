@@ -1,2 +1,2 @@
 # Demo-drug-modality
-Demo Drug Modality Support For DeepChem
+Demo models with tutorial for drug modality support using DeepChem.
