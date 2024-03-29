@@ -1,6 +1,6 @@
 # Protacs Sample
 
-This repository contains a Python script `protacs_sample.py` for training a model to predict the Topological Polar Surface Area (TPSA) of molecules. The script uses the DeepChem library to create and train the model, and then evaluates the model's performance on a test dataset.
+This repository contains a Python script `protacs_sample.py` or `PROTACs_sample.ipynb` for training a model to predict the Topological Polar Surface Area (TPSA) of molecules. The script uses the DeepChem library to create and train the model, and then evaluates the model's performance on a test dataset.
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository:
     ```
-    git clone https://github.com/your-repo/protacs_sample.git
+    https://github.com/heilcheng/Demo-drug-modality.git
     ```
 2. Install the required packages:
     ```
