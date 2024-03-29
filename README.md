@@ -1,4 +1,4 @@
-# Protacs Sample
+# Demo model for prediction on PROTACs
 
 This repository contains a Python script `protacs_sample.py` or `PROTACs_sample.ipynb` for training a model to predict the Topological Polar Surface Area (TPSA) of molecules. The script uses the DeepChem library to create and train the model, and then evaluates the model's performance on a test dataset.
 
